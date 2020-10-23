@@ -5,4 +5,3 @@
 555555555
 66666666
 wo shi da bu si de xiao qiang
-i am very strong

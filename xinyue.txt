@@ -1,7 +1,3 @@
 asdfadfasf
 sfsfsa
-<<<<<<< Updated upstream
 dev
-=======
-llllll
->>>>>>> Stashed changes
